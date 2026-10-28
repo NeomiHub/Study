@@ -1,2 +1,3 @@
 # Study
-hello!!!
+hello!
+havr a good day.
