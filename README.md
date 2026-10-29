@@ -1,4 +1,2 @@
 # Study
 hello!
-hello girl
-
